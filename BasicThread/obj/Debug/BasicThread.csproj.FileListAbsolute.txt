@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\obj\Debug\BasicThread.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\obj\Debug\BasicThread.FrmBasicThread.resources
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\obj\Debug\BasicThread.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\obj\Debug\BasicThread.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\ComputerLab4PC1\source\repos\BasicThread\obj\Debug\BasicThread.pdb
